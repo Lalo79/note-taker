@@ -5,7 +5,7 @@ const fs = require('fs');
 const util = require('util');
 
 
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 
 // Request external files
 let db = require('./db/db.json')

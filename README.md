@@ -14,7 +14,7 @@
 
 The Note Taker is a simple application that allows the user to record notes/tasks. The notes will be saved and then displayed in the left panel. Additionally, the user will be able to delete notes, so that only the those tasks/notes of importance will remain available for the user.  
 
-[Click to Open the "Note Taker" App](https://still-citadel-82672.herokuapp.com/notes)  
+[Click to Open the "Note Taker" App](https://still-citadel-82672.herokuapp.com/)  
 
 ![Note Taker Index page](./public/assets/images/app-index-screenshot.png)
 
